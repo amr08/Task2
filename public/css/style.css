@@ -1,0 +1,13 @@
+body {
+    background-image: url("http://www.desktop-background.com/t/2014/02/17/718653_subtle-backgrounds-on-pinterest_1800x1200_h.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(255,255,255,.7);
+    box-shadow: 0px 0px 10px grey;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
